@@ -1,6 +1,6 @@
 # Invoke-SlowShareEnum
 
-Tool to use in internal penetration test or for any other review of available SMB shares in Windows domain. Enumerates Windows files and folders in shares on all AD domain-joined computers and outputs 1 CSV file for each found share. The generated CSV files can then be reviewed to find sensitive files. It enumerates in parallel but isn't very fast by simple `net view`.
+Wrapper around `net view` to use in internal penetration test or for any other review of available files on SMB shares in Windows domain. Enumerates files and folders in shares on all AD domain-joined computers and outputs 1 CSV file for each found share. The generated CSV files can then be reviewed to find sensitive files. It enumerates in parallel but isn't very fast.
 
 ## Install
 
