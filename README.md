@@ -71,6 +71,7 @@ Get-Content C:\Users\testuser\Desktop\sseout\DC01_Users.txt
 ## Similar Tools
 This script is nothing new, there are others like it, e.g:
 
+ - [Snaffler](https://github.com/SnaffCon/Snaffler) in C#
  - [ShareAudit.ps1](https://gist.github.com/HarmJ0y/72be6fba0b55409e0923) in PowerShell
  - `Invoke-FileFinder` and others from [PowerView](https://github.com/PowerShellMafia/PowerSploit/tree/master/Recon) in PowerShell
  - [smbspider](https://github.com/T-S-A/smbspider) in Python
@@ -80,6 +81,7 @@ This script is nothing new, there are others like it, e.g:
  - [smb-enumerate-shares](https://github.com/SylverFox/smb-enumerate-shares) in Node.js
  - [SharpShares](https://github.com/djhohnstein/SharpShares) in C#
  - [shareenum](https://github.com/CroweCybersecurity/shareenum) in C
+ - [Plunder 2](http://joshstone.us/plunder2/) in Ruby
  - ??? 
  
 ## License
