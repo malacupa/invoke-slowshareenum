@@ -79,9 +79,11 @@ This script is nothing new, there are others like it, e.g:
  - `Spider_plus` module from [CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec) in Python
  - [nullinux](https://github.com/m8r0wn/nullinux) in Python
  - [smb-enumerate-shares](https://github.com/SylverFox/smb-enumerate-shares) in Node.js
- - [SharpShares](https://github.com/djhohnstein/SharpShares) in C#
+ - [SharpShares](https://github.com/djhohnstein/SharpShares) in C#, enumerates shares only
+ - [SharpShares](https://github.com/mitchmoser/SharpShares) by mitchmoser in C#, enumerates shares only
  - [shareenum](https://github.com/CroweCybersecurity/shareenum) in C
  - [Plunder 2](http://joshstone.us/plunder2/) in Ruby
+ - [SoftPerfect Network Scanner](https://www.softperfect.com/products/networkscanner/) commercial tool with GUI
  - ??? 
  
 ## License
