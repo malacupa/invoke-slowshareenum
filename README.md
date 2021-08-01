@@ -84,6 +84,7 @@ This script is nothing new, there are others like it, e.g:
  - [shareenum](https://github.com/CroweCybersecurity/shareenum) in C
  - [Plunder 2](http://joshstone.us/plunder2/) in Ruby
  - [SoftPerfect Network Scanner](https://www.softperfect.com/products/networkscanner/) commercial tool with GUI
+ - [MAN-SPIDER](https://github.com/blacklanternsecurity/MANSPIDER) in Python, searches for files by extension and also content
  - ??? 
  
 ## License
