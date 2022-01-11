@@ -96,7 +96,7 @@ function Invoke-SlowShareEnum {
                 $done.cnt++
                 $newShares = [System.Collections.ArrayList]@()
                 if (Wait-Job -Id $jobs[0].Job -Timeout $timeoutseconds) {
-                    $newShares = [System.Collections.ArrayList] $(Receive-Job -Id $jobs[0].Job)
+                    [System.Collections.ArrayList]$newShares = @(Receive-Job -Id $jobs[0].Job)
                     if ($null -ne $newShares) { $shares.AddRange($newShares) }
                     log "Found $($newShares.Count) shares on $($jobs[0].Computer) ($($done.cnt)/$($comps.Length) done)"
                 } else {
