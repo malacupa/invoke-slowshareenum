@@ -85,6 +85,8 @@ This script is nothing new, there are others like it, e.g:
  - [Plunder 2](http://joshstone.us/plunder2/) in Ruby
  - [SoftPerfect Network Scanner](https://www.softperfect.com/products/networkscanner/) commercial tool with GUI
  - [MAN-SPIDER](https://github.com/blacklanternsecurity/MANSPIDER) in Python, searches for files by extension and also content
+ - [SMBSR](https://github.com/oldboy21/SMBSR) in Python, get list of computers from AD, detect shares, match by patterns
+ - [SMBeagle](https://github.com/punk-security/SMBeagle) in C#, detects also weak ACLs, supports export to CSV or Elasticsearch
  - ??? 
  
 ## License
