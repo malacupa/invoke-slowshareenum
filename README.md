@@ -87,6 +87,7 @@ This script is nothing new, there are others like it, e.g:
  - [MAN-SPIDER](https://github.com/blacklanternsecurity/MANSPIDER) in Python, searches for files by extension and also content
  - [SMBSR](https://github.com/oldboy21/SMBSR) in Python, get list of computers from AD, detect shares, match by patterns
  - [SMBeagle](https://github.com/punk-security/SMBeagle) in C#, detects also weak ACLs, supports export to CSV or Elasticsearch
+ - [FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares) in Python, only finds shares, multithreaded
  - ??? 
  
 ## License
