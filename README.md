@@ -88,7 +88,18 @@ This script is nothing new, there are others like it, e.g:
  - [SMBSR](https://github.com/oldboy21/SMBSR) in Python, get list of computers from AD, detect shares, match by patterns
  - [SMBeagle](https://github.com/punk-security/SMBeagle) in C#, detects also weak ACLs, supports export to CSV or Elasticsearch
  - [FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares) in Python, only finds shares, multithreaded
+ - [Everything](https://www.voidtools.com/): freeware for Win, GUI/CLI
+ - [searchmonkey](https://sourceforge.net/projects/searchmonkey/): for all 3 OSes
  - ??? 
- 
+
+Paid:
+
+ - [Copernic Desktop Search](https://copernic.com/en/desktop/): for Windows, GUI, OCR, content indexing
+ - [DocFetcher Pro](https://docfetcherpro.com/): all 3 OSes, GUI, content indexing
+ - [FileLocater Pro/Agent Ransack](https://www.mythicsoft.com/filelocatorpro/download/): for Windows, GUI, compressed file search
+ - [Recoll](https://www.lesbonscomptes.com/recoll/index.html): all 3 OSes, GUI
+ - [UltraSearch Professional](https://www.jam-software.com/ultrasearch_professional): for Windows, GUI
+ - [PowerGREP](https://www.powergrep.com/): for Windows, GUI 
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
