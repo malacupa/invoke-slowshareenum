@@ -90,6 +90,7 @@ This script is nothing new, there are others like it, e.g:
  - [FindUncommonShares](https://github.com/p0dalirius/FindUncommonShares) in Python, only finds shares, multithreaded
  - [Everything](https://www.voidtools.com/): freeware for Win, GUI/CLI
  - [searchmonkey](https://sourceforge.net/projects/searchmonkey/): for all 3 OSes
+ - [PowerHuntShares](https://github.com/NetSPI/PowerHuntShares): in PowerShell. Rather then files and their content, this tool reviews ACLs
  - ??? 
 
 Paid:
