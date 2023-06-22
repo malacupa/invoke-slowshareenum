@@ -91,6 +91,7 @@ This script is nothing new, there are others like it, e.g:
  - [Everything](https://www.voidtools.com/): freeware for Win, GUI/CLI
  - [searchmonkey](https://sourceforge.net/projects/searchmonkey/): for all 3 OSes
  - [PowerHuntShares](https://github.com/NetSPI/PowerHuntShares): in PowerShell. Rather then files and their content, this tool reviews ACLs
+ - [smbcrawler](https://github.com/SySS-Research/smbcrawler) in Python to crawl given shares and list/download interesting files
  - ??? 
 
 Paid:
